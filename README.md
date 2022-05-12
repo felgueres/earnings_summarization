@@ -21,4 +21,18 @@ Supposing it’s possible to generate human quality summaries with AI, the cost 
 
 - Build a UI to present Earnings Call summaries.
 
+### Architecture  
+
+![UI](assets/ui.png)
+
+![service](assets/service.png)
+
+### Mockup
+
+![mockup](assets/mockup.png)
+
+### Research
+
+![anatomy](assets/ea-anatomy.png)
+
 
