@@ -1,0 +1,15 @@
+__pycache__
+notes.md
+.env
+.*.swp
+*.swo
+edgar_idx.md
+companies_parsed.md
+company_names.md
+eda.py
+data/
+venv/
+*.pyc
+*.csv
+.ipynb_checkpoints/
+snippets.py
