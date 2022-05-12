@@ -30,4 +30,4 @@ The value of an Earnings Call summarizer can be measured in Investor time saved 
     - Use model to generate questions and answers using the call as context.
 7. Summarize Earnings Calls for all public companies.
 
-![Running notes](https://docs.google.com/document/d/1PzdC75WmWBSBCSfoIXo0CoddJNC-Af8Xfs-dE4hha4c/edit?usp=sharing)
+[Running notes](https://docs.google.com/document/d/1PzdC75WmWBSBCSfoIXo0CoddJNC-Af8Xfs-dE4hha4c/edit?usp=sharing)
